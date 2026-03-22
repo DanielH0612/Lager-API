@@ -61,21 +61,3 @@ This project simulates a basic inventory and order management system. It allows 
     }
   ]
 }
- ## Running the Project
- ```bash
-npm install
-npm run dev
-
-## Server runs at:
-
-http://localhost:3000
-
-## What I Learned
-
-This project helped me gain practical experience with:
-
-building REST APIs
-structuring backend applications with routes and controllers
-working with PostgreSQL
-handling validation and errors
-implementing business logic (stock management)
