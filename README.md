@@ -63,3 +63,12 @@ This project simulates a basic inventory and order management system. It allows 
   ]
 }
 ```
+
+## Running the Project
+```bash
+npm install
+npm run dev
+```
+
+## Server runs at
+(http://localhost:3000)
