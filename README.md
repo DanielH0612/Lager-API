@@ -1,6 +1,6 @@
 # Lager API
 
-A REST API built with Node.js, Express.js, and PostgreSQL for managing products, inventory, and customer orders.
+Backend REST API for inventory and order management with stock handling, built using Node.js, Express.js and PostgreSQL.
 
 ## Overview
 
