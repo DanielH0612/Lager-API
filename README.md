@@ -71,4 +71,4 @@ npm run dev
 ```
 
 ## Server runs at
-(http://localhost:3000)
+http://localhost:3000
