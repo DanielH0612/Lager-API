@@ -50,14 +50,3 @@ This project simulates a basic inventory and order management system. It allows 
   "stock_quantity": 12
 }
 
-### Create Order
-```json
-{
-  "customer_name": "Ola Nordmann",
-  "items": [
-    {
-      "product_id": 1,
-      "quantity": 2
-    }
-  ]
-}
